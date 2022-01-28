@@ -1,0 +1,7 @@
+TEMPLATE EXAMPLE
+
+
+pyinstaller -F -i "C:\Users\Rudra\OneDrive\Pictures\Screenshot 2022-01-27 at 19-07-21 Figma.ico" C:\Users\Rudra\OneDrive\Documents/codes/test.py
+
+
+do follow for more tutorials!
